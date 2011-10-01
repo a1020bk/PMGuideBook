@@ -23,5 +23,6 @@ Indices and tables
 * :ref:`search`
 
 今日の天気は晴れです．
+明日の天気は曇りです．
 
 
