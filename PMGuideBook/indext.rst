@@ -13,7 +13,7 @@ Contents:
    :numbered:
 
    test
-   test2
+   test2bvb
 
 Indices and tables
 ==================
